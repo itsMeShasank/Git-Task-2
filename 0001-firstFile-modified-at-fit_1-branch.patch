@@ -1,0 +1,27 @@
+From 4846f4f6a9d88c2d3dcd11b40ab42866fab8548a Mon Sep 17 00:00:00 2001
+From: shasank gadipilli <gadipillishasank@gmail.com>
+Date: Wed, 2 Aug 2023 23:20:08 +0530
+Subject: [PATCH] firstFile modified at fit_1 branch.
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 6a375de..a49c0d6 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -4,7 +4,7 @@ Birds chirped merrily, as if engaging in a lively conversation with the trees.
+ A tranquil river flowed gracefully, meandering its way around the ancient trees, carrying tales of ages past.
+ Wandering through this enchanting haven was a lone traveler, his footsteps barely disturbing the soft moss underfoot.
+ The traveler marveled at the wonders of nature, feeling a deep connection to the world around him.
+-He paused by a crystal-clear stream, cupping the water in his hands and taking a refreshing sip.
+-As the day wore on, the forest seemed to come alive with magical creatures.
++This is line is modified.He paused by a crystal-clear stream, cupping the water in his hands and taking a refreshing sip.
++This is line is modified.As the day wore on, the forest seemed to come alive with magical creatures.
+ A majestic deer with antlers adorned in ivy crossed his path, and a playful squirrel darted from branch to branch, leaving a trail of laughter in its wake.
+ Butterflies danced in a kaleidoscope of colors, and fireflies lit up the twilight, adding a touch of whimsy to the already magical scene.
+\ No newline at end of file
+-- 
+2.40.1.windows.1
+
